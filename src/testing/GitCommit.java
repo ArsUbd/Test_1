@@ -7,6 +7,8 @@ public class GitCommit {
 		System.out.println("Git testing");
 		
 		System.out.println("Git testing update");
+		
+		System.out.println("Git testing update 123");
 
 	}
 
